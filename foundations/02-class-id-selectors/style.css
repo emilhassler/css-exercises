@@ -3,15 +3,16 @@
     font-family: Verdana, "DejaVu sans", sans-serif ;
 }
 
-.paragraphs:nth-child(2) {
+.paragraphs:nth-child(3) {
 
-    font-size: 36px;
+    font-size: 24px;
 }
 
 #nr2 {
 
     color: #045170;
     font-size: 36px;
+
 
 }
 
